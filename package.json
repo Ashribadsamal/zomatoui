@@ -1,0 +1,17 @@
+{
+  "name": "zomatoapi",
+  "version": "1.0.0",
+  "description": "api zomato",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "ashribad",
+  "license": "ISC"
+}
